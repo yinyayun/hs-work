@@ -1,0 +1,126 @@
+F1_1##front xxxxx pockets
+F1_1##pocket on front
+F1_1##pocket at front
+F1_2##front patch pocket
+F1_3##front slip pocket
+F1_4##front snap pocket
+F1_5##front zip pocket
+F1_5##zip front pocket
+F1_5##zip pocket at front
+F1_5##zip pocket on front
+F2_1##buckle
+F2_2##clasp
+F2_2##turn lock
+F2_2##flip lock
+F2_3##clip
+F2_4##latch
+F2_5##snap
+F2_6##drawstring
+F2_7##flap closure
+F2_7##flap top
+F2_7##fold over
+F2_7##foldover
+F3_1##buckle xxxxx strap
+F3_2##canvas xxxxx strap
+F3_2##webbing xxxxx strap
+F3_3##metallic xxxxx strap
+F3_3##chain xxxxx strap
+F3_4##leather xxxxx strap
+F3_4##suede xxxxx strap
+F3_5##chest xxxxx strap
+F3_5##sling xxxxx strap
+F3_6##wristlet strap
+F3_6##wrist strap
+F4_1##beaded fringe
+F4_2##leather fringe
+F4_2##suede fringe
+F4_3##stud fringe
+F4_4##tassel
+F4_5##fringe
+F5_1##cutout top handle
+F5_1##cut out top handle
+F5_2##knuckle ring handle
+F5_3##bamboo top handle
+F5_4##braided handle
+F5_5##chain xxxxx handle
+F5_5##chaned xxxxx handle
+F5_6##rolled top handle
+F5_7##retractable handle
+F6_1##embossed logo
+F6_1##debossed logo
+F6_2##printed logo
+F6_2##stitched logo
+F6_2##woven logo
+F6_2##text logo
+F6_2##stamped logo
+F6_3##leather logo
+F6_4##metal logo
+F6_4##logo metal
+F6_5##logo patch
+F6_6##logo plaque
+F6_7##logo tag
+F6_8##leaf logo
+F6_9##circular logo
+F6_10##triangle logo
+F7_1##braided
+F7_2##embossed
+F7_3##embroidered
+F7_4##frosted finish
+F7_5##woven
+F7_6##fur
+F7_7##grained leather
+F7_8##stud
+F7_9##bead
+F7_10##weave
+F7_11##appliqués
+F7_12##geometric
+F7_13##check
+F7_14##bandana
+F7_15##color block
+F7_16##floral
+F7_17##star
+F7_18##monogram jacquard
+F7_18##monogram jacqard
+F7_19##signature jacquard
+F7_19##signature jacqard
+F7_20##swarovski crystal
+F7_21##striped crochet
+F7_22##croc
+F7_23##leopard
+F7_24##lizard-embossed
+F7_24##lizard
+F7_25##ostrich print
+F7_26##python
+F7_27##rhinestone
+F7_28##snakeskin
+F8_1##brass frame
+F8_1##metal frame
+F8_2##reinforced corners
+F8_3##decorative buckles
+F8_4##heart shape
+F8_5##saddle shape
+F8_6##curved shape
+F8_7##dome shape
+F8_8##grosgrain bow
+H1_00##backpack
+H2_00##clutch
+H3_00##crossbody
+H4_00##hobo
+H5_00##satchel
+H6_00##shoulder bag
+H7_00##tote
+H9_00##bucket bag
+H12_00##saddle bag
+H11_00##wallet
+H8_00##diaper bag
+H13_00##baguette
+H14_00##boston bag
+H15_00##briefcase
+H17_00##duffle bag
+H17_00##duffle weekender
+H19_00##messenger bag
+H21_00##sling bag
+H22_00##bowler
+H23_00##envelope bag
+H24_00##trapeze
+H25_00##pouch
